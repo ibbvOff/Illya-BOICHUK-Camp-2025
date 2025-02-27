@@ -68,12 +68,14 @@ them m1, m2, m3, m4, m5) with a changed center of gravity equal `[0.8, 0.9, 0.1,
 tests began. Determine the probability of `H` in the next flip after `9` of the
 actual tests: `[H T H H H T T H H]` (here `T`(‘Tail’) is opposite side of the
 coin).
+
 For example, before the first test, the probability of `H` is `0.46` (according to
 the formula of full probability, taking into account the equivalence of the
 choice of one of the available coins). After the flip of `H` in the first test, the
 probability of the hypothesis that the selected coin is m3 / m4 / m5
 decreased, and probabilities of hypothesis that m1 / m2, increased
 compared to initial `0.2` probability for each coin.
+
 Therefore, the probability to flip `H` in the next test now equals to `~ 0.69`.
 Similarly, after the evidence of `T` in the next test, you need to re-compute
 the probability of flipping `H` in the third flip, etc.
