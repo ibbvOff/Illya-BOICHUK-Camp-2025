@@ -1,4 +1,4 @@
-# Illya-BOICHUK-test_tasks_Camp_2025
+# Illya-BOICHUK-Camp-2025
 
 # Звіт по виконанню завдання Data Science Camp 2025
 
