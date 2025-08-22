@@ -6,7 +6,7 @@ This homework assignment demonstrates the implementation of a web application fo
 
 ## Deployment Info
 
-The application is implemented on FastAPI. The server is launched via Uvicorn on the local host 127.0.0.1:8000 with the ability to auto-reload during development. The model is loaded once when the server starts. JPG, PNG, and WEBP image formats are supported, with a maximum file size limit of 5 MB.
+The application is implemented on FastAPI. The server is launched via Uvicorn on the local host 0.0.0.0:8000 with the ability to auto-reload during development. The model is loaded once when the server starts. JPG, PNG, and WEBP image formats are supported, with a maximum file size limit of 5 MB.
 
 ## Installation Instruction
 
